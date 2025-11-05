@@ -1,0 +1,38 @@
+h1 {
+            background-color: white;
+            text-align: center;
+        }
+        .buttons{
+            margin-left: 30%;
+            margin-top:40%
+        }
+
+        button {
+            font-size: 30px;
+        }
+
+        #red:hover {
+            background-color: red;
+            color: white;
+        }
+
+        #blue:hover {
+            background-color: blue;
+            color: white;
+        }
+
+        #orange:hover {
+            background-color: rgb(230, 97, 3);
+            color: black;
+        }
+
+        #black:hover {
+            background-color: black;
+            color: white;
+        }
+
+        #white:hover {
+            background-color: white;
+            color: black;
+        }
+  
